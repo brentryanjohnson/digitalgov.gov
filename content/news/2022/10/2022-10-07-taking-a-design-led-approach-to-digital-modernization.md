@@ -58,7 +58,7 @@ That’s why we created brief (approximately 200-word) [plain language](https://
 
 {{< card-quote text="Thank you so much for sharing the report. I am excited to review and bring this back to my team so we can improve our site. I appreciate the work the Enterprise Digital Experience team is doing! I'll be sure to update your team as we make progress towards your recommendations to meet agency goals." cite="GSA web manager" >}}
 
-Building an interdisciplinary team and building on what you have is tough. Working on modernization efforts in the federal conte xt is even tougher. But it’s possible with an empathetic and collaborative approach. We call it design-led, and we know it’s possible in every agency.
+Building an interdisciplinary team and building on what you have is tough. Working on modernization efforts in the federal context is even tougher. But it’s possible with an empathetic and collaborative approach. We call it design-led, and we know it’s possible in every agency.
 
 If you’re at a federal agency and want to learn more, contact GSA’s Enterprise Digital Experience team at [CustomerExperience@gsa.gov](mailto:customerexperience@gsa.gov).
 
